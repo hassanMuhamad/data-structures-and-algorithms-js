@@ -3,7 +3,7 @@ Data structures implementation in JavaScript.
 
 ![repository banner](js-200x200.png)
 
-#chapters
+# chapters
 
 - chapter 1: [Introduction](chapters/introduction.md)
 
