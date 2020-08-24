@@ -1,10 +1,8 @@
 # data-structures-and-algorithms-js
 
-Data structures and algorithms implementation in JavaScript.
+Data structures and algorithms implemented in JavaScript.
 
-<div style='display: flex;'>
-  <img src='js-200x200.png' style='margin: 0 auto'/>
-</div>
+![repository banner](js-200x200.png)
 
 ## chapters
 
