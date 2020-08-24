@@ -30,5 +30,6 @@ Did you know what is worst? the inability to distinguish between solvable proble
 
 so are you still not betting on studying algorithms?
 
-# Next
-[Analysis](chapters/analysis.md)
+### Next
+
+[Analysis](analysis.md)
